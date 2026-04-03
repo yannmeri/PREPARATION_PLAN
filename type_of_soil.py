@@ -1,6 +1,7 @@
 from read_csv_file import read_csv_file #I import the read_csv_file function from the read_csv_file file.
 
 class Sol: #it is a class for detecting the type of the soil and propose cultures
+    #whether the function has parameter(s) or not, inside a class a function must always have "self" to remind the computer that this function is specifically for the class concerned
     def __init__(self, type_soil, ph, humidity): #it is the initial function to create object later
         self.type = type_soil
         self.ph = ph
