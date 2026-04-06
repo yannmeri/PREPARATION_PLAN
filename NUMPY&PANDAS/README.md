@@ -1,51 +1,127 @@
-NumPy & Pandas Practice Exercises
+# 📊 NumPy & Pandas Practice Exercises
 
-Overview
+## 📌 Overview
 
-This project contains practical exercises to build a strong foundation
-in NumPy and Pandas for data analysis.
+This project contains practical exercises to build a strong foundation in **NumPy** and **Pandas** for data analysis.
 
-Learning Objectives
+---
 
--   Manipulate NumPy arrays
--   Perform statistics (mean, variance)
--   Work with 2D data
--   Load and explore datasets with Pandas
--   Filter and transform data
--   Apply functions to data
--   Analyze and summarize results
+## 🎯 Learning Objectives
 
-Topics Covered
+- Manipulate NumPy arrays  
+- Perform statistical operations (mean, variance)  
+- Work with 2D data  
+- Load and explore datasets using Pandas  
+- Filter and transform data  
+- Apply functions to data  
+- Analyze and summarize results  
 
-NumPy: - Array creation (1D, 2D) - Math operations - Statistics -
-Indexing
+---
 
-Pandas: - Reading CSV - DataFrame basics - head(), describe() -
-Filtering - apply() - New columns - Counting data
+## 🧠 Topics Covered
 
-Exercises
+### 🔹 NumPy
+- Array creation (1D, 2D)  
+- Mathematical operations  
+- Statistical functions  
+- Indexing  
 
-Exercise 1: - Create array [5, 10, 15, 20] - Compute mean and variance -
-Multiply elements by 2
+### 🔹 Pandas
+- Reading CSV files  
+- DataFrame basics  
+- `head()`, `describe()`  
+- Data filtering  
+- `apply()` function  
+- Creating new columns  
+- Counting and aggregating data  
 
-Exercise 2: - Create matrix [[1,2,3],[4,5,6]] - Display shape - Access
-value 5
+---
 
-Exercise 3: - Load CSV - Show head and describe - Filter pH > 6
+## 🏗️ Exercises
 
-Exercise 4: - Create pH classification function - Add column ph_type
+### 🟢 Exercise 1: NumPy 1D Array
+- Create an array:  
+  ```python
+  [5, 10, 15, 20]
+- Compute:
+    - Mean
+    - Variance
+    - Multiply all elements by 2
 
-Exercise 5: - Create fertility function - Add column fertility - Count
-fertile and infertile soils
+---
 
-Technologies
+### 🟢 Exercise 2: NumPy 2D Array
 
-Python, NumPy, Pandas
+#### Goal: Understand how to work with matrices and indexing.
 
-How to Run
+##### Tasks:
+- Create a matrix:
+    - [[1, 2, 3],
+        [4, 5, 6]]
+- Display:
+    - The shape of the array
+    - The value 5 using indexing
 
-pip install numpy pandas python your_script.py
+---
 
-Author
+### 🟡 Exercise 3: Data Exploration with Pandas
+
+#### Goal: Explore and understand a dataset.
+
+##### Tasks:
+- Load a CSV file into a DataFrame
+- Display:
+    - First rows using head()
+    - Dataset statistics using describe()
+    - Filter data where pH > 6
+
+---
+
+### 🟡 Exercise 4: Data Transformation
+
+#### Goal: Transform and enrich the dataset.
+
+##### Tasks:
+- Create a function to classify pH:
+    - if pH < 6:
+        return "acid"
+      elif pH > 7:
+        return "basic"
+      else:
+        return "neutral"
+- Apply the function using apply()
+- Add a new column: ph_type
+
+---
+
+### 🔴 Exercise 5: Fertility Analysis
+
+#### Goal: Analyze soil fertility based on given conditions.
+
+##### Tasks:
+- Create a function to determine fertility:
+    - return 6 <= pH <= 7 and humidity >= 20
+- Add a new column: fertility
+- Count:
+    - Number of fertile soils
+    - Number of infertile soils
+
+---
+
+## ⚙️ Technologies
+- Python
+- NumPy
+- Pandas
+
+---
+
+## 🚀 How to Run
+- pip install numpy pandas
+- python your_script.py
+
+---
+
+## 🧑‍💻 Author
 
 Yann-Méric SOSSOU
+Computer Science Graduate | Future AI Engineer
