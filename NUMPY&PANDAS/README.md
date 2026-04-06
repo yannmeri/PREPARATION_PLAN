@@ -54,7 +54,7 @@ This project contains practical exercises to build a strong foundation in **NumP
 
 #### Goal: Understand how to work with matrices and indexing.
 
-##### Tasks:
+#### Tasks:
 - Create a matrix:
     - [[1, 2, 3],
         [4, 5, 6]]
@@ -68,7 +68,7 @@ This project contains practical exercises to build a strong foundation in **NumP
 
 #### Goal: Explore and understand a dataset.
 
-##### Tasks:
+#### Tasks:
 - Load a CSV file into a DataFrame
 - Display:
     - First rows using head()
@@ -81,7 +81,7 @@ This project contains practical exercises to build a strong foundation in **NumP
 
 #### Goal: Transform and enrich the dataset.
 
-##### Tasks:
+#### Tasks:
 - Create a function to classify pH:
     - if pH < 6:
         return "acid"
@@ -98,7 +98,7 @@ This project contains practical exercises to build a strong foundation in **NumP
 
 #### Goal: Analyze soil fertility based on given conditions.
 
-##### Tasks:
+#### Tasks:
 - Create a function to determine fertility:
     - return 6 <= pH <= 7 and humidity >= 20
 - Add a new column: fertility
