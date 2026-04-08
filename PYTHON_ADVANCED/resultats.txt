@@ -1,7 +1,0 @@
-Sol argileux (ph 6.5, humidite 25.0) -> neutre, fertile soil, culture proposed: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)']
-Sol sableux (ph 7.5, humidite 15.0) -> basique, infertile soil, culture proposed: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot']
-Sol limoneux (ph 6.8, humidite 30.0) -> neutre, fertile soil, culture proposed: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)']
-Sol argileux (ph 5.9, humidite 20.0) -> acide, infertile soil, culture proposed: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)']
-Sol sableux (ph 6.2, humidite 22.0) -> neutre, fertile soil, culture proposed: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot']
-
-There are 3 fertile soils and 2 infertile soils.
