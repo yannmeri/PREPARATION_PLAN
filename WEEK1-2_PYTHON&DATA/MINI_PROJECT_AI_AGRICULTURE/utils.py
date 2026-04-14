@@ -1,3 +1,5 @@
+#Inside this file, we create a file.csv with 500 random values
+
 import pandas as pd
 import numpy as np
 

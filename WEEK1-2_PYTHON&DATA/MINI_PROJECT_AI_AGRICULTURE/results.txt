@@ -1,0 +1,1227 @@
+Soil type: limoneux | pH: 5.05 | Humidity: 16.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.8 | Humidity: 10.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.5 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 6.62 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: argileux | pH: 7.05 | Humidity: 28.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.83 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.83 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.6 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.91 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 7.4 | Humidity: 17.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.03 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.72 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 5.39 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.43 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 6.88 | Humidity: 24.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 6.95 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.62 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.82 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.12 | Humidity: 28.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 6.85 | Humidity: 13.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.01 | Humidity: 10.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.97 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.16 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 7.04 | Humidity: 16.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.02 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.78 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.49 | Humidity: 19.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.05 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: limoneux | pH: 7.9 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 6.64 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 6.27 | Humidity: 16.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.71 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.73 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 7.19 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.38 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.75 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.6 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 6.69 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.72 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 7.04 | Humidity: 34.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.71 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.13 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.6 | Humidity: 28.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 6.49 | Humidity: 10.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.17 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 5.3 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.16 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.88 | Humidity: 33.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 6.06 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 7.87 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.03 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 6.45 | Humidity: 25.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 6.48 | Humidity: 13.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.28 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.81 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: argileux | pH: 6.66 | Humidity: 30.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 7.84 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 7.34 | Humidity: 25.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 5.34 | Humidity: 27.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.79 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.99 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.17 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.21 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.64 | Humidity: 30.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: argileux | pH: 7.91 | Humidity: 25.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.06 | Humidity: 28.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.51 | Humidity: 13.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.6 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.52 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.28 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.67 | Humidity: 24.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.19 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 7.68 | Humidity: 29.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.54 | Humidity: 19.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.7 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.59 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.64 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.71 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 6.78 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.05 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 7.12 | Humidity: 15.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.45 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.13 | Humidity: 11.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 5.75 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 5.99 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.3 | Humidity: 29.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 5.76 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.22 | Humidity: 26.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.3 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.47 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.23 | Humidity: 23.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.04 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.71 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 6.2 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 6.43 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 5.25 | Humidity: 26.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.59 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: argileux | pH: 6.31 | Humidity: 18.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.93 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.67 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 5.97 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.13 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.77 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.76 | Humidity: 31.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 5.76 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 7.09 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.23 | Humidity: 23.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 5.65 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.88 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.99 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.75 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.17 | Humidity: 19.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.18 | Humidity: 13.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.32 | Humidity: 18.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.01 | Humidity: 15.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.51 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.16 | Humidity: 14.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 5.69 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.8 | Humidity: 15.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.08 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 5.78 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 6.36 | Humidity: 30.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 5.84 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 6.23 | Humidity: 30.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 6.81 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 5.81 | Humidity: 15.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.4 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.23 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.82 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.25 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 6.74 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 7.76 | Humidity: 30.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 5.25 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.63 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.65 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 5.49 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 7.33 | Humidity: 23.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 6.44 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.96 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.13 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: limoneux | pH: 7.25 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.18 | Humidity: 28.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: limoneux | pH: 7.49 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.71 | Humidity: 13.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 5.19 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.11 | Humidity: 30.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 5.4 | Humidity: 20.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 5.23 | Humidity: 20.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 7.08 | Humidity: 13.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.6 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: argileux | pH: 7.25 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.74 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.18 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.27 | Humidity: 11.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.13 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 5.72 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 5.62 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.75 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.62 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.27 | Humidity: 10.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.81 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.07 | Humidity: 29.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 6.49 | Humidity: 28.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.43 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.49 | Humidity: 29.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.92 | Humidity: 20.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.45 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.9 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.27 | Humidity: 20.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.38 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.77 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.44 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.26 | Humidity: 30.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 7.35 | Humidity: 18.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.92 | Humidity: 18.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 7.42 | Humidity: 17.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.71 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 6.85 | Humidity: 10.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.94 | Humidity: 34.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.82 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: argileux | pH: 6.66 | Humidity: 19.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.27 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.18 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.64 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.35 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.89 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.57 | Humidity: 21.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 7.09 | Humidity: 21.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.39 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.31 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.14 | Humidity: 14.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.04 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 5.63 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.74 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.02 | Humidity: 34.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 6.38 | Humidity: 26.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 6.2 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 7.09 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 5.54 | Humidity: 33.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.09 | Humidity: 28.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.62 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.92 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 6.81 | Humidity: 14.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 5.67 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.47 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.04 | Humidity: 15.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.04 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 5.1 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 6.65 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 6.6 | Humidity: 34.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: argileux | pH: 6.07 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 7.68 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.99 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.96 | Humidity: 24.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 5.28 | Humidity: 19.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.44 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 7.06 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.47 | Humidity: 32.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 6.13 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 5.01 | Humidity: 31.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.6 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.25 | Humidity: 23.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 7.96 | Humidity: 30.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 6.61 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 7.77 | Humidity: 18.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.71 | Humidity: 28.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 7.28 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.59 | Humidity: 17.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 7.16 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.19 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 5.44 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 5.4 | Humidity: 29.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 7.06 | Humidity: 16.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.53 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.25 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.09 | Humidity: 19.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.6 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.06 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 6.19 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: argileux | pH: 5.55 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 6.69 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 7.52 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.61 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.7 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.42 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: sableux | pH: 6.07 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 6.95 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 6.44 | Humidity: 16.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.75 | Humidity: 24.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 7.21 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 6.01 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 7.7 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.82 | Humidity: 10.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 5.73 | Humidity: 25.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.02 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.1 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.55 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.26 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.17 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 7.53 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.15 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 5.05 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.99 | Humidity: 29.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.69 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.73 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 7.75 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.02 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.93 | Humidity: 25.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.47 | Humidity: 33.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 7.17 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.46 | Humidity: 24.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.16 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.61 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.43 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 7.52 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.62 | Humidity: 29.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.9 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.6 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 7.21 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.12 | Humidity: 23.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.3 | Humidity: 33.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.26 | Humidity: 27.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 7.8 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.96 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.78 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: argileux | pH: 6.11 | Humidity: 25.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.36 | Humidity: 10.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.65 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 6.65 | Humidity: 23.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 5.61 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 5.26 | Humidity: 24.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.42 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 5.01 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.35 | Humidity: 33.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.42 | Humidity: 13.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.82 | Humidity: 21.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 7.38 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 5.32 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.24 | Humidity: 15.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.23 | Humidity: 16.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 7.97 | Humidity: 23.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.62 | Humidity: 33.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.14 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 7.78 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.16 | Humidity: 11.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.14 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 7.48 | Humidity: 29.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.25 | Humidity: 13.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.4 | Humidity: 17.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.48 | Humidity: 29.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.56 | Humidity: 31.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.71 | Humidity: 30.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 6.9 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 7.72 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 5.95 | Humidity: 23.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.76 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 7.05 | Humidity: 20.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.14 | Humidity: 34.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: limoneux | pH: 7.7 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.87 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.62 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.32 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 6.73 | Humidity: 15.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.07 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.17 | Humidity: 14.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.6 | Humidity: 31.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 5.2 | Humidity: 24.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.69 | Humidity: 32.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: sableux | pH: 6.63 | Humidity: 26.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: limoneux | pH: 6.29 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 6.0 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.19 | Humidity: 29.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.08 | Humidity: 26.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.5 | Humidity: 19.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.64 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.49 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 7.22 | Humidity: 27.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 7.99 | Humidity: 33.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 7.26 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.12 | Humidity: 12.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.43 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.14 | Humidity: 24.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.48 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 7.26 | Humidity: 18.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.31 | Humidity: 13.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.61 | Humidity: 23.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.14 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.37 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.81 | Humidity: 20.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 6.51 | Humidity: 18.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.62 | Humidity: 33.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Improve drainage']
+
+Soil type: argileux | pH: 6.46 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 6.23 | Humidity: 18.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: limoneux | pH: 7.32 | Humidity: 12.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 5.04 | Humidity: 34.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: limoneux | pH: 6.8 | Humidity: 11.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 6.7 | Humidity: 21.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: sableux | pH: 7.15 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.8 | Humidity: 18.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.48 | Humidity: 24.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 7.88 | Humidity: 17.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.03 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 5.68 | Humidity: 14.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.27 | Humidity: 20.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: limoneux | pH: 6.84 | Humidity: 33.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Improve drainage']
+
+Soil type: sableux | pH: 7.74 | Humidity: 24.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: sableux | pH: 5.3 | Humidity: 17.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.77 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.18 | Humidity: 25.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: limoneux | pH: 6.78 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: argileux | pH: 7.76 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 7.37 | Humidity: 25.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 5.07 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 6.95 | Humidity: 14.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 7.31 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.12 | Humidity: 26.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: limoneux | pH: 5.21 | Humidity: 27.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 5.31 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: sableux | pH: 7.52 | Humidity: 28.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 7.73 | Humidity: 12.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.37 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Improve drainage']
+
+Soil type: argileux | pH: 5.71 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.56 | Humidity: 17.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.51 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity']
+
+Soil type: argileux | pH: 6.82 | Humidity: 33.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: limoneux | pH: 6.14 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 5.62 | Humidity: 17.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 7.36 | Humidity: 10.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 6.81 | Humidity: 25.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.24 | Humidity: 22.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | []
+
+Soil type: argileux | pH: 6.4 | Humidity: 34.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Improve drainage']
+
+Soil type: argileux | pH: 7.76 | Humidity: 19.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.76 | Humidity: 13.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: sableux | pH: 5.1 | Humidity: 15.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 7.74 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: argileux | pH: 5.74 | Humidity: 14.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.73 | Humidity: 20.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 5.5 | Humidity: 22.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity']
+
+Soil type: limoneux | pH: 5.93 | Humidity: 28.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
+Soil type: argileux | pH: 7.34 | Humidity: 32.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Improve drainage']
+
+Soil type: sableux | pH: 5.83 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: sableux | pH: 5.66 | Humidity: 19.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add lime to reduce acidity', 'Increase irrigation']
+
+Soil type: limoneux | pH: 6.55 | Humidity: 30.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | []
+
+Soil type: sableux | pH: 7.93 | Humidity: 16.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.38 | Humidity: 27.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: sableux | pH: 6.67 | Humidity: 13.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | ['Increase irrigation']
+
+Soil type: argileux | pH: 7.58 | Humidity: 11.0
+Recommended crops: ['rice', 'cabbage', 'spinash', 'beans', 'fruits trees (orange tree, mango tree, apple tree)'] | ['Add organic matter to reduce alkalinity', 'Increase irrigation']
+
+Soil type: sableux | pH: 6.61 | Humidity: 23.0
+Recommended crops: ['peanut', 'cassava', 'watermelon', 'sweet potatoes', 'carrot'] | []
+
+Soil type: limoneux | pH: 5.55 | Humidity: 22.0
+Recommended crops: ['maize', 'tomatoes', 'beans', 'lettuce', 'rice (with irrigation)'] | ['Add lime to reduce acidity']
+
