@@ -19,7 +19,7 @@ def check_independance_fertility_ph(prob_f, df):#Check whether fertility and ph[
 
     P_fertility_given_ph = df[df["ph"].between(6,7)]["fertility"].mean()
 
-    if (P_fertility_given_ph == prob_f):
+    if (abs(P_fertility_given_ph - prob_f) < 0.05):
         print(f"P(fertile | ph[6,7]): {P_fertility_given_ph}")
         print ("Fertility and ph are independent.\n")
     else:
@@ -30,7 +30,7 @@ def check_independance_fertility_humidity(prob_f, df):#Check whether fertility a
 
     P_fertility_given_humidity = df[df["humidite"] >= 20]["fertility"].mean()
 
-    if (P_fertility_given_humidity == prob_f):
+    if (abs(P_fertility_given_humidity - prob_f) < 0.05):
         print(f"P(fertile | humidity >= 20): {P_fertility_given_humidity}")
         print ("Fertility and humidity are independent.")
     else:
