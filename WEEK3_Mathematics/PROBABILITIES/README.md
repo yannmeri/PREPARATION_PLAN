@@ -41,6 +41,7 @@ This section helps you practice:
 * Understanding variability in data
 * Measuring relationships between variables
 * Interpreting numerical results in real-world contexts
+* Applying probability using real datasets (not only formulas)
 * Preparing for advanced AI concepts
 
 ---
@@ -70,11 +71,6 @@ This section helps you practice:
   * Low variance → data is stable
   * High variance → data is spread out
 
-* Example:
-
-  * [10, 12, 14, 16] → low variance
-  * [5, 20, 30, 50] → high variance
-
 ---
 
 ### 🔹 3. Standard Deviation
@@ -83,11 +79,6 @@ This section helps you practice:
 
 * Purpose:
   Gives dispersion in the same unit as the data
-
-* Interpretation:
-
-  * Small → values are close to the mean
-  * Large → values are very spread
 
 ---
 
@@ -102,11 +93,6 @@ This section helps you practice:
   * +1 → strong positive relationship
   * 0 → no relationship
   * -1 → strong negative relationship
-
-* Example:
-
-  * pH ↑ and humidity ↑ → positive correlation
-  * pH ↑ and humidity ↓ → negative correlation
 
 ---
 
@@ -123,21 +109,100 @@ This section helps you practice:
 
 ---
 
-### 🔹 6. Conditional Probability
+### 🔹 6. Conditional Probability (IMPORTANT)
 
-* Probability of an event given another event
+* Definition:
 
-* Example:
-  Probability that soil is fertile given that pH is neutral
+  P(A | B) = probability of A given that B is true
+
+* Formula:
+
+  P(A | B) = P(A ∩ B) / P(B)
 
 ---
 
-### 🔹 7. Independence
+### 🔹 Practical Data Science Interpretation
 
-* Two events are independent if one does not affect the other
+Instead of using formulas directly, we use data filtering:
 
-* Example:
-  Soil type and rainfall may be independent (depending on context)
+Example in Python:
+
+```python
+df[df["humidite"] >= 20]["fertility"].mean()
+```
+
+* A = soil is fertile
+* B = humidity ≥ 20
+
+👉 This computes:
+
+P(fertile | humidity ≥ 20)
+
+---
+
+### 🔹 Key Insight
+
+👉 Conditional probability in practice =
+
+**Filter data + compute mean**
+
+---
+
+### 🔹 7. Independence (VERY IMPORTANT)
+
+* Two events are independent if:
+
+P(A | B) ≈ P(A)
+
+---
+
+### 🔹 Practical Method (Data Science)
+
+Instead of using formulas:
+
+1. Compute:
+
+```python
+P(fertile) = df["fertility"].mean()
+```
+
+2. Compute:
+
+```python
+P(fertile | condition)
+```
+
+3. Compare the two values:
+
+* If they are close → independent
+* If they are different → dependent
+
+---
+
+### 🔹 Example
+
+If:
+
+P(fertile) = 0.4
+P(fertile | humidity ≥ 20) = 0.75
+
+👉 Conclusion:
+
+➡️ Fertility depends on humidity
+
+---
+
+### 🔹 Important Note
+
+In real AI/Data Science:
+
+❌ We do NOT rely only on formulas
+✔️ We use:
+
+* Data filtering
+* Proportions
+* Mean values
+* Correlation
 
 ---
 
@@ -146,7 +211,7 @@ This section helps you practice:
 * Average expected outcome
 
 * Example:
-  Expected yield of crops based on soil conditions
+  Expected crop yield based on soil conditions
 
 ---
 
@@ -155,8 +220,6 @@ This section helps you practice:
 * Bell-shaped curve
 
 * Most values are around the mean
-
-* Important in AI and data modeling
 
 ---
 
@@ -176,8 +239,8 @@ Using these concepts, you can:
 * Analyze soil quality
 * Detect stable vs unstable environments
 * Understand relationships (pH vs humidity)
-* Predict fertility
-* Support intelligent agricultural decisions
+* Predict fertility using probability
+* Make intelligent agricultural decisions
 
 ---
 
@@ -186,7 +249,8 @@ Using these concepts, you can:
 Statistics transforms raw data into meaningful information
 Probability helps make decisions under uncertainty
 
-Together, they form the mathematical foundation of AI
+👉 In AI:
+Data + Probability = Intelligent decisions
 
 ---
 
@@ -202,8 +266,8 @@ Together, they form the mathematical foundation of AI
 
   * df.describe()
   * df.corr()
-
-* Apply concepts to your soil dataset
+  * df.mean()
+  * df[condition]
 
 ---
 
