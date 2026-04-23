@@ -206,12 +206,22 @@ In real AI/Data Science:
 
 ---
 
-### 🔹 8. Expected Value (Expectation)
+#### 🔹 8. Expected Value (Expectation)
 
-* Average expected outcome
+* Definition:
+  Average expected outcome based on probabilities
+
+* Formula:
+  E(X) = Σ (value × probability)
 
 * Example:
-  Expected crop yield based on soil conditions
+  Fertile soil → yield = 120 (prob = 0.7)
+  Infertile soil → yield = 50 (prob = 0.3)
+
+  E = 120 × 0.7 + 50 × 0.3 = 99
+
+* Interpretation:
+  Represents the average yield we can expect in the long run
 
 ---
 
@@ -219,16 +229,62 @@ In real AI/Data Science:
 
 * Bell-shaped curve
 
-* Most values are around the mean
+* Characteristics:
+
+  * Symmetrical around the mean
+  * Most values are concentrated near the mean
+  * Few extreme values
+
+* Important rule:
+
+  * ~68% of data within [mean ± std]
+  * ~95% within [mean ± 2×std]
+
+* Practical use:
+
+  * Detect anomalies
+  * Understand data distribution
+  * Validate data quality
 
 ---
 
 ### 🔹 10. Bayes’ Theorem (Intro Level)
 
-* Used to update probability based on new information
+* Purpose:
+  Update probability using new information
+
+* Formula:
+
+  P(A | B) = (P(B | A) × P(A)) / P(B)
 
 * Example:
-  Probability that soil is fertile given observed humidity
+
+  * A = soil is fertile
+  * B = humidity ≥ 20
+
+👉 Compute:
+
+P(fertile | humidity)
+
+---
+
+### 🔹 Practical Insight (VERY IMPORTANT)
+
+👉 Bayes allows:
+
+* Better predictions
+* Smarter decisions
+* Updating beliefs with new data
+
+---
+
+### 🔹 Key Interpretation
+
+If:
+
+P(fertile | humidity ≥ 20) is high
+
+👉 Then humidity is a strong indicator of soil fertility
 
 ---
 
@@ -240,16 +296,17 @@ Using these concepts, you can:
 * Detect stable vs unstable environments
 * Understand relationships (pH vs humidity)
 * Predict fertility using probability
+* Estimate expected crop yield
 * Make intelligent agricultural decisions
 
 ---
 
 ## 🧠 Key Insight
 
-Statistics transforms raw data into meaningful information
-Probability helps make decisions under uncertainty
+Statistics transforms raw data into meaningful information  
+Probability helps make decisions under uncertainty  
 
-👉 In AI:
+👉 In AI:  
 Data + Probability = Intelligent decisions
 
 ---
@@ -273,5 +330,5 @@ Data + Probability = Intelligent decisions
 
 ## 🧑‍💻 Author
 
-Yann-Méric SOSSOU
+Yann-Méric SOSSOU  
 Computer Science Graduate | Future AI Engineer
