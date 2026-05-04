@@ -1,9 +1,10 @@
 import numpy as np
 
-# simulation simple
-weights = np.array([0.2, 0.5, 0.3])
-inputs = np.array([10, 5, 8])
+# données
+X = np.array([1, 2, 3, 4])
+y = np.array([2, 4, 6, 8])
 
-result = np.dot(weights, inputs)
+# "entraînement" simple
+weight = np.sum(y) / np.sum(X)
 
-print("Résultat du modèle :", result)
+print("Poids appris :", weight)
