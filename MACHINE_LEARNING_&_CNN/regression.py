@@ -1,4 +1,4 @@
-import pandas as pd#this library helps creating a datafrram
+import pandas as pd#this library helps creating a dataframe
 import numpy as np#NumPy is a library specialized in mathematical computing
 
 def create_dataframe():#create a dataframe here
@@ -42,7 +42,7 @@ def split_dataframe(df_clean):#split dataframe into train_data and test_data and
 
     return (dict_data)
 
-def normalize_train(X):
+def normalize_train(X): #Normalize train data
     mean = X.mean(axis=0)
     std = X.std(axis=0)
     X_norm = (X - mean) / std
@@ -54,13 +54,13 @@ def normalize_train(X):
     }
     return norm
 
-def normalize_test(X_test, norm):
+def normalize_test(X_test, norm): #Normalize test data
 
     mean = norm['moy']
     std = norm['std']
 
     return (X_test - mean) / std
-    
+
 
 def train_model(norm, w, dict_data, learning_rate, b):#AI model to find appropriate parameters
 
