@@ -23,11 +23,11 @@ def split_dataframe(df_clean):#split dataframe into test and train
     data_train = df_clean.iloc[:4, :]
     data_test = df_clean.iloc[4:, :]
 
-    X_train = data_train.iloc[:, :2]
-    y_train = data_train.iloc[:, 2:]
+    X_train = data_train.iloc[:, :2].to_numpy()
+    y_train = data_train.iloc[:, 2:].to_numpy()
 
-    X_test = data_test.iloc[:, :2]
-    y_test = data_test.iloc[:, 2:]
+    X_test = data_test.iloc[:, :2].to_numpy()
+    y_test = data_test.iloc[:, 2:].to_numpy()
 
     dict_data = {
         "X_train" : X_train, #shape(4,2)
@@ -68,6 +68,7 @@ def train_model(w, X_norm, y_train, learning_rate, b):#implementing training mod
 
     y_pred = 0
     error = 0
+    epsilon = 1e-8
 
     for i in range(10000):
 
@@ -80,10 +81,10 @@ def train_model(w, X_norm, y_train, learning_rate, b):#implementing training mod
         #print(error.shape)
 
         #loss
-        loss = -np.mean(y_train * np.log(y_pred) + (1 - y_train) * np.log(1 - y_pred))
+        loss = -np.mean(y_train * np.log(y_pred + epsilon) + (1 - y_train) * np.log(1 - y_pred + epsilon))
 
         #gradients
-        dw = np.dot(X_norm.T, (y_pred - y_train))
+        dw = np.dot(X_norm.T, (y_pred - y_train)) / len(X_norm)
         db = np.mean(error)
 
         #updates
@@ -94,10 +95,10 @@ def train_model(w, X_norm, y_train, learning_rate, b):#implementing training mod
             print(f"loss: \n{loss}")
     
     params = {
-        "weights" : w, #shape(2, 4)
+        "weights" : w, #shape(2, 1)
         "bias" : b, #shape(1,)
         "loss" : loss, #shape(1,)
-        "prediction" : y_pred #shape(4, 4)
+        "prediction" : y_pred #shape(4, 1)
     }
 
     return (params)
@@ -153,8 +154,11 @@ if __name__=="__main__":
     X_test_norm = normalize_data_test(X_test, moy, stand_d)
     #print(f"X_test_norm : \n{X_test_norm}\nX_test_norm_shape : {X_test_norm.shape}\n")
 
-    predict = prediction(X_test_norm, w, b)
-    print(f"Final prediction :\n{predict}\n")
+    y_test_pred = prediction(X_test_norm, w, b)
+    print(f"Final prediction :\n{y_test_pred}\n")
+
+    predict_class = (y_test_pred >= 0.5).astype(int)
+    print(f"Class: \n{predict_class}")
 
 
 
