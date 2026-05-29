@@ -71,7 +71,7 @@ def train_model(norm, w, dict_data, learning_rate, b):#AI model to find appropri
     X_norm = norm["X_norm"]
     y = dict_data["y_train"]
 
-    for i in range (22000):
+    for i in range (20000):
 
         #predict y values
         y_pred = np.dot(X_norm, w) + b
@@ -83,7 +83,7 @@ def train_model(norm, w, dict_data, learning_rate, b):#AI model to find appropri
         loss = np.mean(error ** 2)
 
         #Gradients
-        dw = 2 * np.dot(X_norm.T, error)
+        dw = (2 / len(X_norm)) * np.dot(X_norm.T, error)
         db = 2 * np.mean(error)
 
         #Update
@@ -148,7 +148,7 @@ if __name__=="__main__":
     b = 0
 
     norm = normalize_train(dict_data['X_train'])
-    params = train_model(norm, w, dict_data, learning_rate=0.001, b=0)
+    params = train_model(norm, w, dict_data, learning_rate=0.0001, b=0)
 
     print(f"\nweights : \n{params['weights']}\n")
     print(f"bias : \n{params['bias']}\n")
