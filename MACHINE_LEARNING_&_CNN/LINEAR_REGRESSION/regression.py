@@ -71,7 +71,7 @@ def train_model(norm, w, dict_data, learning_rate, b):#AI model to find appropri
     X_norm = norm["X_norm"]
     y = dict_data["y_train"]
 
-    for i in range (10000):
+    for i in range (22000):
 
         #predict y values
         y_pred = np.dot(X_norm, w) + b
@@ -155,7 +155,7 @@ if __name__=="__main__":
     print(f"prediction : \n{params['prediction']}\n")
     print(f"loss : {params['loss']}\n")
 
-    predi_test = predict(dict_data, w, params['bias'], norm)
+    predi_test = predict(dict_data, params['weights'], params['bias'], norm)
 
     print(f"final_prediction : \n{predi_test}")
 

@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  regression_container:
+    build: .
+    volumes:
+      - .:/app
