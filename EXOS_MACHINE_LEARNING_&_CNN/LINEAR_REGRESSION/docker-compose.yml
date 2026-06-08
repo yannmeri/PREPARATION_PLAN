@@ -1,0 +1,5 @@
+services:
+  house_prices_prediction:
+    build: .
+    volumes:
+      - .:/app
