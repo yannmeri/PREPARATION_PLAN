@@ -3,3 +3,5 @@ services:
     build: .
     volumes:
       - .:/app
+    environment:
+      - MODE_PROJECT=predict
