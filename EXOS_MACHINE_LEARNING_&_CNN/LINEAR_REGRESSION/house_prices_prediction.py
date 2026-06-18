@@ -2,6 +2,8 @@ import os #connect my local code to my docker-container
 import pandas as pd #Pandas library is used for creating Dataframe
 import numpy as np #NumPy library is used for mathematical computation
 from sklearn.metrics import r2_score #Sklearn is used for compute score prediction
+from tqdm import tqdm #loading bar
+
 
 mode = os.getenv("MODE_PROJECT")
 
@@ -164,7 +166,7 @@ def train_linear_model(X_norm, y_train, w, b, learning_rate):#Train linear regre
     error = 0
     loss = 0
 
-    for i in range(10000):
+    for i in tqdm(range(10000)):
         #Model for prediction
         y_pred = np.dot(X_norm, w) + b
 
@@ -246,7 +248,7 @@ if __name__=="__main__": #Main function
 
     #Initialiaze weights and bias values
     n_features = X_norm.shape[1]
-    w = np.zeros((n_features, 1)) #shape(38, 1)
+    w = np.random.randn(n_features, 1) #shape(38, 1)
     b = 0 #shape(1,)
 
     if (mode == "train"):
