@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD [ "python", "bank_customer_churn_prediction.py" ]
+CMD [ "python", "mlp_bank_customer_churn_prediction.py" ]

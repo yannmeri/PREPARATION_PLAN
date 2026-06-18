@@ -4,7 +4,6 @@ import numpy as np #apply mathematical operation
 from sklearn.metrics import f1_score #compute score
 from tqdm import tqdm #loading bar
 
-
 mode = os.getenv("MODE_PROJECT")
 
 NOMINAL_VARIABLES = ['country']
@@ -83,14 +82,14 @@ def split_dataframe(df_clean):#Split the dataset into training (50%), validation
 
 def extract_features_target(train, validation, test):#Extract features matrices (X) and target vectors (y) for all subsets.
 
-    y_train = train[['churn']]
-    X_train = train.drop(columns='churn')
+    y_train = train[['churn']].to_numpy()
+    X_train = train.drop(columns='churn').to_numpy()
 
-    y_validation = validation[['churn']]
-    X_validation = validation.drop(columns='churn')
+    y_validation = validation[['churn']].to_numpy()
+    X_validation = validation.drop(columns='churn').to_numpy()
 
-    y_test = test[['churn']]
-    X_test = test.drop(columns='churn')
+    y_test = test[['churn']].to_numpy()
+    X_test = test.drop(columns='churn').to_numpy()
 
     datas = {
         "X_train": X_train,
@@ -114,50 +113,100 @@ def normalized_X_train_values(df_clean):#Compute mean and standard deviation fro
     return (df_norm, moy, stand_d)
 
 
-def sigmoid_function(z):# Compute the sigmoid activation function
+def initialisation(X_norm):#Initialize weights and bias and create layers of neural network 
+    n_features = X_norm.shape[1]
+    w1 = np.random.randn(n_features, 6)
+    b1 = np.zeros((1, 6))
+    w2 = np.random.randn(6, 1)
+    b2 = np.zeros((1, 1))
 
-    sig = 1 / (1 + np.exp(-z))
+    params = {
+        "w1": w1,
+        "b1": b1,
+        "w2": w2,
+        "b2": b2
+    }
 
-    return (sig)
+    return (params)
 
 
-def train_classification_model(X_norm, y_train, w, b, learning_rate): #Train weights and bias using Binary Cross-Entropy Gradient Descent
+def sigmoid_function(X, w1, b1, w2, b2):# Compute the sigmoid activation function
+
+    Z1 = np.dot(X, w1) + b1
+    A1 = 1 / (1 + np.exp(-Z1))
+
+    Z2 = np.dot(A1, w2) + b2
+    A2 = 1 / (1 + np.exp(-Z2))
+
+    activation = {
+        "Z1": Z1,
+        "A1": A1,
+        "Z2": Z2,
+        "A2": A2
+    }
+
+    return (activation)
+
+
+def train_classification_model(X_norm, y_train, learning_rate): #Train weights and bias using Binary Cross-Entropy Gradient Descent
 
     y_pred = 0
     error = 0
     epsilon = 1e-8
     n_features = X_norm.shape[0]
 
+    params = initialisation(X_norm)
+    w1 = params['w1']
+    b1 = params['b1']
+    w2 = params['w2']
+    b2 = params['b2']
+
     for i in tqdm(range (10000)):
 
         #Classification Model
-        z = np.dot(X_norm, w) + b
-        y_pred = sigmoid_function(z)
+        activation = sigmoid_function(X_norm, w1, b1, w2, b2)
+
+        #activation 
+        Z1 = activation['Z1']
+        A1 = activation['A1']
+
+        Z2 = activation['Z2']
+        A2 = activation['A2']
 
         #error
-        error = y_pred - y_train
+        error = A2 - y_train
 
         #Gradients
-        dw = (1 / n_features) * np.dot(X_norm.T, error)
-        db = (1 / n_features) * np.sum(error)
+        dw2 = (1 / n_features) * np.dot(A1.T, (y_train - A2))
+        db2 = (1 / n_features) * np.sum(y_train - A2, keepdims=True)
+
+        first_term =  np.dot((y_train - A2), w2.T)
+        second_term = A1 * (1 - A1)
+        third_term = first_term * second_term
+
+        dw1 = (1 / n_features) * np.dot(X_norm.T, third_term)
+        db1 = (1 / n_features) * np.sum(third_term, axis=0, keepdims=True)
 
         #Gradients descente
-        w = w - learning_rate * dw
-        b = b - learning_rate * db
+        w1 = w1 - learning_rate * dw1
+        b1 = b1 - learning_rate * db1
+        w2 = w2 - learning_rate * dw2
+        b2 = b2 - learning_rate * db2
 
         #loss
-        loss = (-1 / n_features) * (np.dot(y_train.T, np.log(y_pred + epsilon)) + np.dot((1 - y_train.T), np.log(1 - y_pred + epsilon)))
+        loss = (-1 / n_features) * (np.dot(y_train.T, np.log(A2 + epsilon)) + np.dot((1 - y_train.T), np.log(1 - A2 + epsilon)))
 
         if (i % 100 == 0):
             print(f"loss: {loss}")
 
     params = {
-        "weights": w,
-        "bias": b,
-        "train_pred": y_pred
+        "w1": w1,
+        "b1": b1,
+        "w2": w2,
+        "b2": b2
     }
 
-    return (params)
+    return (params, A2)
 
 
 def normalized_X_val_X_test_values(X, moy, stand_d):#Scale any feature matrix using training mean and standard deviation.
@@ -174,12 +223,11 @@ def classify_churn(prediction):#Convert probability scores into binary classes (
     return (prediction)
 
 
-def make_prediction(X, w, b):#Predict a customer tenure
+def make_prediction(X, w1, b1, w2, b2):#Predict a customer tenure
 
-    pred = np.dot(X, w) + b
-    activ = sigmoid_function(pred)
+    activation = sigmoid_function(X, w1, b1, w2, b2)
 
-    is_churn = classify_churn(activ)
+    is_churn = classify_churn(activation['A2'])
 
     return (is_churn)
 
@@ -223,26 +271,17 @@ if __name__=="__main__":#Main test
     if (mode == "train"):
 
         print(f"-----MODE TRAINING-----\n")
-        n_features = X_norm.shape[1]
-        w = np.random.randn(n_features, 1)
-        b = 0
 
         #9- Train weights and bias using Binary Cross-Entropy Gradient Descent
-        params = train_classification_model(X_norm, y_train, w, b, learning_rate=0.001)
+        params, y_pred = train_classification_model(X_norm, y_train, learning_rate=0.001)
 
-        w = params['weights']
-        b = params['bias']
-        y_pred = params['train_pred']
+        w1 = params['w1']
+        b1 = params['b1']
+        w2 = params['w2']
+        b2 = params['b2']
 
-        save_weights = pd.DataFrame({
-                "weights": w.flatten()
-        })
-        save_weights = save_weights.to_csv("save_weights.csv", index=False)
-
-        save_bias = pd.DataFrame({
-                "bias": b.flatten()
-        })
-        save_bias = save_bias.to_csv("save_bias.csv", index=False)
+        np.savez_compressed('save_params.npz', **params)
+        print("Parameters saved into save_params.npz file.")
         
         #10- Convert probability scores into binary classes (0 or 1) using vectorization.
         is_churn_train = classify_churn(y_pred)
@@ -254,16 +293,17 @@ if __name__=="__main__":#Main test
     elif (mode == "predict"):
 
         print(f"-----MODE PREDICTION-----\n")
-        save_weights = pd.read_csv("save_weights.csv")
-        save_bias = pd.read_csv("save_bias.csv")
-        w = save_weights[['weights']].to_numpy()
-        b = save_bias[['bias']].to_numpy()
+        save_params = np.load('save_params.npz')
+        w1 = save_params['w1']
+        w2 = save_params['w2']
+        b1 = save_params['b1']
+        b2 = save_params['b2']
 
         #Scale any feature matrix using training mean and standard deviation.
         X_val_norm = normalized_X_val_X_test_values(X_validation, moy, stand_d)
 
         #Predict a customer tenure
-        is_churn_val = make_prediction(X_val_norm, w, b)
+        is_churn_val = make_prediction(X_val_norm, w1, b1, w2, b2)
 
         score_validation = f1_score(is_churn_val, y_validation)
         print(f"F1 Score validation: {score_validation}\n")
@@ -272,12 +312,9 @@ if __name__=="__main__":#Main test
         X_test_norm = normalized_X_val_X_test_values(X_test, moy, stand_d)
 
         #Predict a customer tenure
-        is_churn_test = make_prediction(X_test_norm, w, b)
+        is_churn_test = make_prediction(X_test_norm, w1, b1, w2, b2)
         
         score_test = f1_score(is_churn_test, y_test)
         print(f"F1 Score test: {score_test}\n")
 
-        save_prediction = pd.DataFrame({
-                "prediction": is_churn_test.flatten()
-        })
-        save_prediction = save_prediction.to_csv("save_prediction.csv", index=False)
+        np.savez_compressed('save_prediction.npz', prediction=is_churn_test)
