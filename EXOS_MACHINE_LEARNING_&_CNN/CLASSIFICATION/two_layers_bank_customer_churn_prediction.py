@@ -113,108 +113,100 @@ def normalized_X_train_values(df_clean):#Compute mean and standard deviation fro
     return (df_norm, moy, stand_d)
 
 
-def initialisation(X_norm, nb_layers):#Initialize weights and bias and create layers of neural network 
+def initialisation(X_norm):#Initialize weights and bias and create layers of neural network 
     n_features = X_norm.shape[1]
-    params = {}
+    w1 = np.random.randn(n_features, 32)
+    b1 = np.zeros((1, 32))
+    w2 = np.random.randn(32, 1)
+    b2 = np.zeros((1, 1))
 
-    for i in range(nb_layers):
-
-        if (i == 0):
-            params[f'w{i}'] = np.random.randn(n_features, 32)
-            params[f'b{i}'] = np.zeros((1, 32))
-
-        elif (i + 1 == nb_layers):
-            params[f'w{i}'] = np.random.randn(32, 1)
-            params[f'b{i}'] = np.zeros((1, 1))
-
-        else:
-            params[f'w{i}'] = np.random.randn(32, 32)
-            params[f'b{i}'] = np.zeros((1, 32))
-
+    params = {
+        "w1": w1,
+        "b1": b1,
+        "w2": w2,
+        "b2": b2
+    }
 
     return (params)
 
 
-def sigmoid_function(X, params):# Compute the sigmoid activation function
+def sigmoid_function(X, w1, b1, w2, b2):# Compute the sigmoid activation function
 
-    len_params = int(len(params) / 2)
-    
-    activation = {}
+    Z1 = np.dot(X, w1) + b1
+    A1 = 1 / (1 + np.exp(-Z1))
 
-    #activation 
-    for i in range(len_params):
-        if (i == 0):
-            Z = np.dot(X, params[f'w{i}']) + params[f'b{i}']
-            activation[f'A{i}'] = 1 / (1 + np.exp(-Z))
-        else:
-            Z = np.dot(activation[f'A{i - 1}'], params[f'w{i}']) + params[f'b{i}']
-            activation[f'A{i}'] = 1 / (1 + np.exp(-Z))
+    Z2 = np.dot(A1, w2) + b2
+    A2 = 1 / (1 + np.exp(-Z2))
+
+    activation = {
+        "Z1": Z1,
+        "A1": A1,
+        "Z2": Z2,
+        "A2": A2
+    }
 
     return (activation)
 
-def gradients_back_propagation(X_norm, y_train, activation, params, learning_rate):
 
-    n_data = X_norm.shape[0]
-    len_act = int(len(params) / 2) - 1
-    count = int(len(params) / 2) - 1
-    dZ = y_train - activation[f'A{len_act}']
-
-    while(count >= 0):
-        #Gradients
-
-        if (count == 0):
-            dw = (1 / n_data) * np.dot(X_norm.T, dZ)
-            db = (1 / n_data) * np.sum(dZ, axis=0, keepdims=True)
-
-            #Gradients descente
-            params[f'w{count}'] = params[f'w{count}'] - learning_rate * dw
-            params[f'b{count}'] = params[f'b{count}'] - learning_rate * db
-
-            break
-
-        dw = (1 / n_data) * np.dot(activation[f'A{count - 1}'].T, dZ)
-        db = (1 / n_data) * np.sum(dZ, axis=0, keepdims=True)
-
-
-        #Gradients descente
-        params[f'w{count}'] = params[f'w{count}'] - learning_rate * dw
-        params[f'b{count}'] = params[f'b{count}'] - learning_rate * db
-
-        #update dZ
-        dZ = np.dot(dZ, params[f'w{count}'].T) * (activation[f'A{count - 1}'] * (1 - activation[f'A{count - 1}']))
-
-        count -= 1
-    
-    return (params)
-
-def train_classification_model(X_norm, y_train, nb_layers, learning_rate): #Train weights and bias using Binary Cross-Entropy Gradient Descent
+def train_classification_model(X_norm, y_train, learning_rate): #Train weights and bias using Binary Cross-Entropy Gradient Descent
 
     y_pred = 0
     error = 0
     epsilon = 1e-8
-    n_data = X_norm.shape[0]
+    n_features = X_norm.shape[0]
 
-    params = initialisation(X_norm, nb_layers)
+    params = initialisation(X_norm)
+    w1 = params['w1']
+    b1 = params['b1']
+    w2 = params['w2']
+    b2 = params['b2']
 
     for i in tqdm(range (10000)):
 
         #Classification Model
-        activation = sigmoid_function(X_norm, params)        
+        activation = sigmoid_function(X_norm, w1, b1, w2, b2)
+
+        #activation 
+        Z1 = activation['Z1']
+        A1 = activation['A1']
+
+        Z2 = activation['Z2']
+        A2 = activation['A2']
 
         #error
-        A_final = activation[f'A{len(activation) - 1}']
-        error = A_final - y_train
+        error = A2 - y_train
 
-        params = gradients_back_propagation(X_norm, y_train, activation, params, learning_rate)
+        #Gradients
+        dw2 = (1 / n_features) * np.dot(A1.T, (y_train - A2))
+        db2 = (1 / n_features) * np.sum(y_train - A2, keepdims=True)
+
+        first_term =  np.dot((y_train - A2), w2.T)
+        second_term = A1 * (1 - A1)
+        third_term = first_term * second_term
+
+        dw1 = (1 / n_features) * np.dot(X_norm.T, third_term)
+        db1 = (1 / n_features) * np.sum(third_term, axis=0, keepdims=True)
+
+        #Gradients descente
+        w1 = w1 - learning_rate * dw1
+        b1 = b1 - learning_rate * db1
+        w2 = w2 - learning_rate * dw2
+        b2 = b2 - learning_rate * db2
 
         #loss
-        loss = (-1 / n_data) * (np.dot(y_train.T, np.log(A_final + epsilon)) + np.dot((1 - y_train.T), np.log(1 - A_final + epsilon)))
+        loss = (-1 / n_features) * (np.dot(y_train.T, np.log(A2 + epsilon)) + np.dot((1 - y_train.T), np.log(1 - A2 + epsilon)))
 
         if (i % 100 == 0):
             print(f"loss: {loss}")
 
+    params = {
+        "w1": w1,
+        "b1": b1,
+        "w2": w2,
+        "b2": b2
+    }
 
-    return (params, A_final)
+    return (params, A2)
 
 
 def normalized_X_val_X_test_values(X, moy, stand_d):#Scale any feature matrix using training mean and standard deviation.
@@ -231,13 +223,11 @@ def classify_churn(prediction):#Convert probability scores into binary classes (
     return (prediction)
 
 
-def make_prediction(X, params):#Predict a customer tenure
+def make_prediction(X, w1, b1, w2, b2):#Predict a customer tenure
 
-    activation = sigmoid_function(X, params)
-    A_final = activation[f'A{len(activation) - 1}']
+    activation = sigmoid_function(X, w1, b1, w2, b2)
 
-
-    is_churn = classify_churn(A_final)
+    is_churn = classify_churn(activation['A2'])
 
     return (is_churn)
 
@@ -276,14 +266,19 @@ if __name__=="__main__":#Main test
 
     #8- Compute mean and standard deviation from training set to scale features.
     X_norm, moy, stand_d = normalized_X_train_values(X_train)
-    nb_layers = 15
+
     
     if (mode == "train"):
 
         print(f"-----MODE TRAINING-----\n")
 
         #9- Train weights and bias using Binary Cross-Entropy Gradient Descent
-        params, y_pred = train_classification_model(X_norm, y_train, nb_layers, learning_rate=0.001)
+        params, y_pred = train_classification_model(X_norm, y_train, learning_rate=0.001)
+
+        w1 = params['w1']
+        b1 = params['b1']
+        w2 = params['w2']
+        b2 = params['b2']
 
         np.savez_compressed('save_params.npz', **params)
         print("Parameters saved into save_params.npz file.")
@@ -300,7 +295,7 @@ if __name__=="__main__":#Main test
         print(f"-----MODE PREDICTION-----\n")
         save_params = np.load('save_params.npz')
         params = {}
-        for i in range(int(len(save_params) / 2)):
+        for i in range(1, int(len(save_params) / 2) + 1):
             
             params[f'w{i}'] = save_params[f'w{i}']
             params[f'b{i}'] = save_params[f'b{i}']
@@ -311,7 +306,7 @@ if __name__=="__main__":#Main test
         X_val_norm = normalized_X_val_X_test_values(X_validation, moy, stand_d)
 
         #Predict a customer tenure
-        is_churn_val = make_prediction(X_val_norm, params)
+        is_churn_val = make_prediction(X_val_norm, w1, b1, w2, b2)
 
         score_validation = f1_score(is_churn_val, y_validation)
         print(f"F1 Score validation: {score_validation}\n")
@@ -320,7 +315,7 @@ if __name__=="__main__":#Main test
         X_test_norm = normalized_X_val_X_test_values(X_test, moy, stand_d)
 
         #Predict a customer tenure
-        is_churn_test = make_prediction(X_test_norm, params)
+        is_churn_test = make_prediction(X_test_norm, w1, b1, w2, b2)
         
         score_test = f1_score(is_churn_test, y_test)
         print(f"F1 Score test: {score_test}\n")
