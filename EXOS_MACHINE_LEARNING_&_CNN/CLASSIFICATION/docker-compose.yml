@@ -4,4 +4,4 @@ services:
     volumes:
       - .:/app
     environment:
-    - MODE_PROJECT=predict
+    - MODE_PROJECT=train

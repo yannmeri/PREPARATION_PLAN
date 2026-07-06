@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  cnn_basics:
+    build: .
+    volumes:
+      # Associe un dossier local "output" au dossier "/app/output" du conteneur
+      - ./output:/app/output

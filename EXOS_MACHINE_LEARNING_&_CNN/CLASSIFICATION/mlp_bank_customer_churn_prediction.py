@@ -22,19 +22,23 @@ def load_data(): #Load the raw bank customer dataset from CSV.
 
 def encoding_unnumeric_features(df):#Encode categorical variables and impute missing numerical fields.
 
+    #copying my dataframe
+    df_copy = df.copy()
+    
     # 1. Binary conversion for gender
-    df['gender'] = df['gender'].map(GENDER_VALUES)
+
+    df_copy['gender'] = df_copy['gender'].map(GENDER_VALUES)
 
     # 2. One-Hot encoding for nominal features (country)
-    df = pd.get_dummies(df, columns=NOMINAL_VARIABLES, drop_first=True, dtype=int)
+    df_copy = pd.get_dummies(df_copy, columns=NOMINAL_VARIABLES, drop_first=True, dtype=int)
 
     # 3. Security check: Impute remaining NaN values with column median
-    numerical_cols = df.select_dtypes(include=[np.number]).columns
+    numerical_cols = df_copy.select_dtypes(include=[np.number]).columns
     for col in numerical_cols:
         if (col != "churn"):
-            df[col] = df[col].fillna(df[col].median())
+            df_copy[col] = df_copy[col].fillna(df_copy[col].median())
     
-    return (df)
+    return (df_copy)
 
 
 def clean_dataframe(df_treated):#Drop any remaining rows containing NaN values.
