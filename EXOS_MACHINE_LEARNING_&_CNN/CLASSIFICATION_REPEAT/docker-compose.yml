@@ -1,0 +1,9 @@
+services:
+  churn_prediction:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    environment:
+      - MODE_PROJECT=train
