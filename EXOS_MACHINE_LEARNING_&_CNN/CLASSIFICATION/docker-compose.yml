@@ -1,7 +1,0 @@
-services:
-  bank_churn_prediction:
-    build: .
-    volumes:
-      - .:/app
-    environment:
-    - MODE_PROJECT=train
