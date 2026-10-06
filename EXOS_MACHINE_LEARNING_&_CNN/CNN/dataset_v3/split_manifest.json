@@ -1,0 +1,1970 @@
+[
+  {
+    "original_file": "IMG20251013160303.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "367cab668d87",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160305.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "123b85296021",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160407.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "c8a36d70457c",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160408.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "d3fb98e8080b",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160443.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "64feac9aa059",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160447.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e85b2b42e388",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160450.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "da00532f7653",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160452.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "37f2b94c7bf7",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160453.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "6e805564f829",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160455.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e8b4c657b5fc",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160457.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "13fe09b39e1c",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160459.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "14aeaa24c849",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160508.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "cd7a8fe397cd",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160512.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "8d68f8045a0a",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160515.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "a431938c1689",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160541.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "8a56edc60fb2",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160543.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "c549a7c5ac02",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160545.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "2b27556a40c1",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160547.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "adf92987d06f",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160556.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "273afcb17ed5",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160557.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "6f5390a1a06d",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160635.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7779159e8bdd",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160636.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "89781988635c",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160638.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7079d3c43006",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160655.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "3055da0f327b",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160659.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "26ac9e0649c0",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160703.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "9b54a1c27584",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160705.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e54d778c1c9e",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160707.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "bb5e50b966c7",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013160717.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "75d3ff2567c1",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161704.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "cde5987413ed",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161708.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "242893dd93e3",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161709.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "562bc7fece49",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161710.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7c2e3181d7b7",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161711.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7cbd795f31bd",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161718.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7e952123ce3f",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161719.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e52f689044da",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161720.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "4175186debdc",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161721.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "494632601bff",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161731.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "ca14f2f80d02",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161734.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "95e0694769ff",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161736.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "c14fef4215e2",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161737.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "bc6f1286e63b",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161738.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "8209912e24dc",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161805.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "6508e373a7d3",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161806.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "c9445f81fc5e",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161813.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "8b63d64bfe14",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161847.jpg",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "6d2c0d1abcf5",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0040.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7626364de9e9",
+    "n_patches": 398,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0041.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "86a7250a338b",
+    "n_patches": 365,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0043.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e83beed06c70",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0237.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "1d96856f8dac",
+    "n_patches": 560,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0238.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "663063150071",
+    "n_patches": 560,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0239.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "db9f6d0d256a",
+    "n_patches": 534,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0240.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "d84d55729cf9",
+    "n_patches": 539,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0241.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "c3df4ac7ccf8",
+    "n_patches": 550,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0242.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "1d1097911600",
+    "n_patches": 550,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (5).JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "7c1416fba712",
+    "n_patches": 579,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征1 2.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "233d6455f268",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征1.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "edc49a8b3cdd",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征2.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "e1cbcfd510dd",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征3 2.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "5aed72fe56a7",
+    "n_patches": 414,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征3.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "1d9259c7371f",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征4.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "b9aa9c4942ea",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征5.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "60838ba80dbd",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征6.JPG",
+    "class": "Clay",
+    "subset": "train",
+    "prefix": "49d43e2a7ce7",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112303.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "69b225493e31",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112321.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "3de23a74bb49",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112326.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "cd54b4f7f9fe",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112335.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "83ca15341a49",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112340.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "64e3516aa0b4",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112355.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "c41039cb24ad",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112402.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "ba4b52136f38",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 112407.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "1abdee1e1ca7",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135454.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "2a430471fa09",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135500.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "26853a4ecb53",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135502.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "33e43a799234",
+    "n_patches": 344,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135508.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "d9efe1576281",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135525.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "2f21527ac680",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 135527.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "738d96737d71",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141253.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "c3dfa3f226ff",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141315.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "d5bb02bff414",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141328.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "de5b415181d4",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141332.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "be22656fb0c1",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141336.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "2fc711a9888e",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141349.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "2cff6ad3bf18",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141354.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "86a00d993291",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141359.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "eb6145f3a888",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141404.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "c71e55fcabde",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 141421.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "e20d3088e028",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 151947.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "6c2a8ce1917c",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 151950.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "ccf91ba27d6b",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152025.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "98943ed2f994",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152027.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "79b281ca9424",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152038.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "7bc515725866",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152113.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "b1838fd3536b",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152116.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "6d7b1a0deb18",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152122.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "3253abfbdc78",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152124.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "e1ee4d3af0f7",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152202.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "454a8de5c230",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152212.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "fce97638dfd4",
+    "n_patches": 350,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152320.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "1ab766ff162e",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152326.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "1b6fbd7d067f",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152449.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "35e36bd41540",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152500.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "f849a5090ea7",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "2025-10-06 152511.jpg",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "d277cef6e354",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG_0206.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "3c6f2057ac17",
+    "n_patches": 551,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (1).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "297d0c70760a",
+    "n_patches": 572,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (10) 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "99d38629fe52",
+    "n_patches": 551,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (10).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "4cde47c74fa5",
+    "n_patches": 600,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (11).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "a2ff9a0fc77d",
+    "n_patches": 560,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (5).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "308803cf4e95",
+    "n_patches": 577,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (6).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "e9cd26acb0e9",
+    "n_patches": 600,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (7) 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "6c03d1e95c41",
+    "n_patches": 563,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (7).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "044977e527a6",
+    "n_patches": 562,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (8) 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "8134696d04e9",
+    "n_patches": 581,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (8).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "3c548fc450df",
+    "n_patches": 564,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "层次特征照 (9).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "9910a0d6f935",
+    "n_patches": 555,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征1 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "7245b8709b00",
+    "n_patches": 384,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征1 3.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "50ea2ec269ec",
+    "n_patches": 353,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征1.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "7607713da162",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征2 .JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "39f192a2fda0",
+    "n_patches": 365,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征2 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "b1286e01513d",
+    "n_patches": 540,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征2 3.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "c994af044be5",
+    "n_patches": 518,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "6f1f77620b72",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征3 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "d1456171aa30",
+    "n_patches": 600,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征3 3.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "5205be0e3fd3",
+    "n_patches": 392,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征3.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "c8a203570c07",
+    "n_patches": 442,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征4 2.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "67bf476d65b0",
+    "n_patches": 358,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征4.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "a3d944269fe6",
+    "n_patches": 556,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征5.JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "188281ea6ce7",
+    "n_patches": 600,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征照 (1).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "bccd1669e578",
+    "n_patches": 534,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征照 (2).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "444a892392ff",
+    "n_patches": 560,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征照 (3).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "72927bbc1cc4",
+    "n_patches": 528,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "特征照 (5).JPG",
+    "class": "Loam",
+    "subset": "train",
+    "prefix": "afcacd61bfb4",
+    "n_patches": 562,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171557.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "9aeb57482392",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171559.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "b813fd972393",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171732.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "2b153dc5d327",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171744.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "1c51d9c578e5",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171813.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5e37fd803b33",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171844.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "f16ce23eb316",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915171943.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "2f6aa93a0f1e",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172128.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "911efea38a74",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172130.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e81d80da5898",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172131.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e57ad7428aef",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172133.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "f84ab83ee2d6",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172137.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e0468f22f451",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172138.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "b5f2eb0b56d2",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172143.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "1756e6dddbbd",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172145.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5f4192f8738a",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172151.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "bb5de92db687",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172720.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "4ad84c0bb41d",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172859.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "2f7e1c95a9f2",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172910.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5a0defbabe8f",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172918.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "18b36c93a349",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172922.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "9255eb62df82",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172924.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e8de19006ebd",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172931.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e103813f4be3",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172933.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "af105735f9a8",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172948.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "32e03f56837f",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172950.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "98ee2b84963e",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915172955.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "d75464db667e",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250915173014.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "2981d272d81f",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135526.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "d8a70e606109",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135526_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "f6ef683dc636",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135527.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "443250917d30",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135528.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "cf5dfb79255e",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135528_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5f6443dd3b80",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135529.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "cc806a7e7f01",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135542.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "23df84cea6f8",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135543.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "c749f95baf95",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135543_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5a4b5a1b4f32",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135544.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "847a4fb1e288",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135545.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "95d8d2df0814",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135545_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "f13ea4b6d3bc",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135546.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "dd77b4b7e5f2",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135700.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "e442c7908067",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135811_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "001f3045a059",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135824_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "6ce220275ad4",
+    "n_patches": 336,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135838.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "232e313e17ff",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135843.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "72b080c98f96",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135844_01.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "5687844d43ca",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20250923135845.jpg",
+    "class": "Sand",
+    "subset": "train",
+    "prefix": "cffcfb524d56",
+    "n_patches": 352,
+    "source_dir": "train"
+  },
+  {
+    "original_file": "IMG20251013161712.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "e52686e38b6f",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160619.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "f26d97cc14e6",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160501.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "2af7ebefd4b7",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013161812.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "f056f8ed0143",
+    "n_patches": 332,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013161848.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "6ae5a5d33bb7",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160617.jpg",
+    "class": "Clay",
+    "subset": "val",
+    "prefix": "d77f4af51ca0",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013161834.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "85523f8bfa53",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013161733.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "a1b0c279a7b1",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160510.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "c47f634e2dce",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160559.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "ebc25b9df77d",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160342.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "515b677af9f9",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013160442.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "01aaa7eb8147",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20251013161817.jpg",
+    "class": "Clay",
+    "subset": "test",
+    "prefix": "835b02d70ae7",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152743.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "f3f5255a9ca3",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152315.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "f9dffa3eac33",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152319.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "7e40967c00a8",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141506.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "3de077beac9a",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152208.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "0630194e2cc1",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141455.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "4b56f6aab3c9",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152804.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "cd86f7b0562f",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 153655.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "621fda885ca6",
+    "n_patches": 343,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141603.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "06de8c5f413a",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 113556.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "2e306dcb2198",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 153724.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "ed7e44858da7",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 113713.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "d52cc18e501c",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 145556.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "4cb9023c463d",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152636.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "6ae9092033fa",
+    "n_patches": 351,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141509.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "5f5adc28854f",
+    "n_patches": 345,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 153650.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "05fc092f395f",
+    "n_patches": 350,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152740.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "2114e922a8f9",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141306.jpg",
+    "class": "Loam",
+    "subset": "val",
+    "prefix": "b6bfe33e1acf",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 151836.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "cc08b195a000",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 153150.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "d78aa6ca3252",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141255.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "0b590b17ab31",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 153324.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "a68e682a3cb6",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152642.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "a68a29a35e2d",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152509.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "6e9c2d77a7b9",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 151914.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "9f3dbb88063e",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 152313.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "7a059b919ec9",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 135434.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "8854dd2a28ce",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 151439.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "33b28aa925c7",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 112317.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "4c2663fdee99",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 151858.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "acd00225d930",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 150821.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "f9d2f524ffdd",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141758.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "c5f18500ee48",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 141743.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "fd282970a6b5",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 135403.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "28524425e037",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 112333.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "1ff2a49ba9d1",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "2025-10-06 113553.jpg",
+    "class": "Loam",
+    "subset": "test",
+    "prefix": "c193f68607ee",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135837.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "65f4f6b4eaa2",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135839_01.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "db8cd8b579c7",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135708.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "6d96c8ab0e6a",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135810.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "0b07d221900f",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135707.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "5e3faed9e604",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135809.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "d9ae34970a03",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135844.jpg",
+    "class": "Sand",
+    "subset": "val",
+    "prefix": "55550f8dc9fb",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135813.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "28af752f0a20",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135701.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "a2c52cb6a509",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135836.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "51ddba924028",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135815.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "a9b70a40f9d2",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135842.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "481f06c24918",
+    "n_patches": 352,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135527_01.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "c5b892ef8fd7",
+    "n_patches": 336,
+    "source_dir": "validation"
+  },
+  {
+    "original_file": "IMG20250923135843_02.jpg",
+    "class": "Sand",
+    "subset": "test",
+    "prefix": "673ed6a3305c",
+    "n_patches": 352,
+    "source_dir": "validation"
+  }
+]

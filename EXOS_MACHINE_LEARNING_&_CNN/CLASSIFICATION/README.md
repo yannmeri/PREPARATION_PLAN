@@ -74,4 +74,9 @@ The model performance is evaluated using the F1-Score (from scikit-learn).
 Unlike simple global Accuracy, the F1-Score combines Precision and Recall (harmonic 
 mean). This metric is critical here because the bank churn dataset is imbalanced 
 (the number of customers leaving is significantly lower than those who stay).
+
+6. How to launch the program
+----------------------------
+To launch the program you must type this command: "docker-compose up --build" in your terminal.
+
 ================================================================================
